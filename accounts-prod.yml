@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related production APIs from config server"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "{cipher}1103815c854674cc4d1a08d864f8f7ab80c990cbf6df02a229f67f07e6dabf070ef67f3641a4a9c11321b47cca59654d"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
