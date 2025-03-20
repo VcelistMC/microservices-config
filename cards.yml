@@ -1,5 +1,5 @@
 cards:
-  message: "Welcome to EazyBank cards related local APIs from config server "
+  message: "Welcome to EazyBank cards related local APIs from config server  using github"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
