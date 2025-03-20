@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs from config server using github, v1"
+  message: "Welcome to EazyBank accounts related local APIs from config server using github, v2"
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}1103815c854674cc4d1a08d864f8f7ab80c990cbf6df02a229f67f07e6dabf070ef67f3641a4a9c11321b47cca59654d"
